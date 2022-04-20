@@ -1,2 +1,0 @@
-# muhamad.py
-Pythom
